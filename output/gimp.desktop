@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=gimp
+Name[en_US]=gimp
+GenericName=gimp
+Comment=Aplicacion Bash Shell Script
+Exec='/home/datos/apps_images/GIMP_AppImage-git-2.10.21-20200612-withplugins-x86_64.AppImage'
+Icon=utilities-terminal
+Terminal=false
+Categories=Office;
+Keywords=Shell;
